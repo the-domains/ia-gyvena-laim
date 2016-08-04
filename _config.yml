@@ -16,3 +16,6 @@ navigation:
   - name: 'Drinks: Smoked Manhattan'
     id: 833e2c90-6744-4fbb-a39b-e30ad2723435
     type: content
+  - name: The Most Beautiful Mountains in the World
+    id: ce29dbfd-21d0-4d81-8524-21af5cfcfc71
+    type: content
