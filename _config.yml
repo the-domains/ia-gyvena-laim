@@ -12,4 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: Walltip
-navigation: []
+navigation:
+  - name: Test
+    id: bd437bec-9e4c-40a7-9276-c3f956a7d10d
+    type: content
