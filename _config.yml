@@ -22,3 +22,6 @@ navigation:
   - name: Life
     url: 'http://martynaskairys.com'
     type: external
+  - name: mike
+    id: ce29dbfd-21d0-4d81-8524-21af5cfcfc71
+    type: content
