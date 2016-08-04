@@ -19,3 +19,6 @@ navigation:
   - name: My Life
     url: martynaskairys.com
     type: external
+  - name: Life
+    url: 'http://martynaskairys.com'
+    type: external
