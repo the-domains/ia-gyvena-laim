@@ -12,16 +12,4 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: Walltip
-navigation:
-  - name: 'Drinks: Smoked Manhattan'
-    id: 833e2c90-6744-4fbb-a39b-e30ad2723435
-    type: content
-  - name: The Most Beautiful Mountains in the World
-    id: ce29dbfd-21d0-4d81-8524-21af5cfcfc71
-    type: content
-  - name: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
-    id: 75a36aec-2ae8-41e0-bbdd-e569ef72cfa9
-    type: content
-  - name: About us
-    id: bd437bec-9e4c-40a7-9276-c3f956a7d10d
-    type: content
+navigation: []
