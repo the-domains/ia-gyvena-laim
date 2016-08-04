@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T04:53:57.385Z'
+datePublished: '2016-08-04T05:03:57.644Z'
 sourcePath: _posts/2016-04-16-mido-eyewear-show-2016.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - spectacles
 related: []
 author: []
-dateModified: '2016-08-04T04:53:56.906Z'
+dateModified: '2016-08-04T05:03:57.215Z'
 title: Mido Eyewear Show 2016
 app_links: []
 publisher:
