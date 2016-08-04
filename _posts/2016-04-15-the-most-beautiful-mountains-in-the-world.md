@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T04:51:35.594Z'
+datePublished: '2016-08-04T05:08:18.497Z'
 sourcePath: _posts/2016-04-15-the-most-beautiful-mountains-in-the-world.md
 inFeed: true
 authors: []
@@ -23,7 +23,7 @@ author:
   - name: '@VeeTravels'
     url: 'https://www.twitter.com/@VeeTravels'
     avatar: {}
-dateModified: '2016-08-04T04:51:35.017Z'
+dateModified: '2016-08-04T05:08:17.636Z'
 title: The Most Beautiful Mountains in the World
 app_links:
   - namespace: twitter
