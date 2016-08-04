@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-04T05:13:49.230Z'
+datePublished: '2016-08-04T05:44:22.963Z'
 sourcePath: _posts/2016-08-04-barcelona.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f3444ab-0219-44a4-b971-02d10b380ed7.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T05:13:48.745Z'
+dateModified: '2016-08-04T05:44:22.217Z'
 title: Barcelona
 publisher: {}
-description: 'testing something was nice '
+description: testing something was nice
 starred: false
 inFeed: true
 hasPage: false
@@ -18,7 +18,7 @@ _type: MediaObject
 ---
 # Barcelona
 
-testing something was nice ![What a day](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f3444ab-0219-44a4-b971-02d10b380ed7.jpg)
+testing something was nice
 
 And here it was
 
