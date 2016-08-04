@@ -1,16 +1,16 @@
-layout_spectrum: 0.7824902776628733
-typography_spectrum: 0.24186134431511164
+layout_spectrum: 0.6637089585419744
+typography_spectrum: 0.6665211927611381
 color:
-  brandStrength: 0.8033453514799476
-  lightness: 0.37195438891649246
-  saturation: 0.447819831315428
-  rhythmicContrast: 0.2057266398333013
+  brandStrength: 0.5231358979362994
+  lightness: 0.2591778445057571
+  saturation: 0.9886219017207623
+  rhythmicContrast: 0.8347837859764695
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Walltip
 navigation:
   - name: Test
